@@ -1,0 +1,70 @@
+﻿  object2D.cpp
+..\src\lab_m1\Tema1\object2D.cpp(158,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Tema1.cpp
+..\src\lab_m1\Tema1\Tema1.cpp(52,94): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+..\src\lab_m1\Tema1\Tema1.cpp(100,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+..\src\lab_m1\Tema1\Tema1.cpp(157,62): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+..\src\lab_m1\Tema1\Tema1.cpp(158,62): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+..\src\lab_m1\Tema1\Tema1.cpp(165,46): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+..\src\lab_m1\Tema1\Tema1.cpp(174,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+..\src\lab_m1\Tema1\Tema1.cpp(177,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+..\src\lab_m1\Tema1\Tema1.cpp(179,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+..\src\lab_m1\Tema1\Tema1.cpp(181,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+..\src\lab_m1\Tema1\Tema1.cpp(185,72): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+..\src\lab_m1\Tema1\Tema1.cpp(185,54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+..\src\lab_m1\Tema1\Tema1.cpp(187,54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+..\src\lab_m1\Tema1\Tema1.cpp(189,54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+..\src\lab_m1\Tema1\Tema1.cpp(193,72): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+..\src\lab_m1\Tema1\Tema1.cpp(193,54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+..\src\lab_m1\Tema1\Tema1.cpp(195,54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+..\src\lab_m1\Tema1\Tema1.cpp(197,54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+..\src\lab_m1\Tema1\Tema1.cpp(201,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+..\src\lab_m1\Tema1\Tema1.cpp(201,54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+..\src\lab_m1\Tema1\Tema1.cpp(203,54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+..\src\lab_m1\Tema1\Tema1.cpp(205,54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+..\src\lab_m1\Tema1\Tema1.cpp(207,54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+..\src\lab_m1\Tema1\Tema1.cpp(211,54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+..\src\lab_m1\Tema1\Tema1.cpp(212,94): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+..\src\lab_m1\Tema1\Tema1.cpp(212,54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+..\src\lab_m1\Tema1\Tema1.cpp(214,54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+..\src\lab_m1\Tema1\Tema1.cpp(218,63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+..\src\lab_m1\Tema1\Tema1.cpp(222,63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+..\src\lab_m1\Tema1\Tema1.cpp(230,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+..\src\lab_m1\Tema1\Tema1.cpp(230,54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+..\src\lab_m1\Tema1\Tema1.cpp(232,54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+..\src\lab_m1\Tema1\Tema1.cpp(234,54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+..\src\lab_m1\Tema1\Tema1.cpp(236,54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+..\src\lab_m1\Tema1\Tema1.cpp(243,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+..\src\lab_m1\Tema1\Tema1.cpp(320,47): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+..\src\lab_m1\Tema1\Tema1.cpp(379,98): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+..\src\lab_m1\Tema1\Tema1.cpp(379,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+..\src\lab_m1\Tema1\Tema1.cpp(402,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+..\src\lab_m1\Tema1\Tema1.cpp(402,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+..\src\lab_m1\Tema1\Tema1.cpp(419,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+..\src\lab_m1\Tema1\Tema1.cpp(419,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+..\src\lab_m1\Tema1\Tema1.cpp(436,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+..\src\lab_m1\Tema1\Tema1.cpp(437,32): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+..\src\lab_m1\Tema1\Tema1.cpp(446,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+..\src\lab_m1\Tema1\Tema1.cpp(447,32): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+..\src\lab_m1\Tema1\Tema1.cpp(454,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+..\src\lab_m1\Tema1\Tema1.cpp(455,32): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+..\src\lab_m1\Tema1\Tema1.cpp(462,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+..\src\lab_m1\Tema1\Tema1.cpp(463,32): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+..\src\lab_m1\Tema1\Tema1.cpp(471,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+..\src\lab_m1\Tema1\Tema1.cpp(471,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+..\src\lab_m1\Tema1\Tema1.cpp(487,106): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+..\src\lab_m1\Tema1\Tema1.cpp(487,98): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Tema1_vis2D.cpp
+..\src\lab_m1\Tema1\Tema1_vis2D.cpp(171,35): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+..\src\lab_m1\Tema1\Tema1_vis2D.cpp(173,35): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+..\src\lab_m1\Tema1\Tema1_vis2D.cpp(175,35): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+..\src\lab_m1\Tema1\Tema1_vis2D.cpp(177,35): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+..\src\lab_m1\Tema1\Tema1_vis2D.cpp(182,39): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+..\src\lab_m1\Tema1\Tema1_vis2D.cpp(183,40): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+..\src\lab_m1\Tema1\Tema1_vis2D.cpp(188,39): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+..\src\lab_m1\Tema1\Tema1_vis2D.cpp(189,40): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+     Creating library D:/Anul 3/EGC/gfx-framework-master/build/Debug/GFXFramework.lib and object D:/Anul 3/EGC/gfx-framework-master/build/Debug/GFXFramework.exp
+  GFXFramework.vcxproj -> D:\Anul 3\EGC\gfx-framework-master\build\bin\Debug\GFXFramework.exe
+  Junction created for D:\Anul 3\EGC\gfx-framework-master\build\bin\Debug\src <<===>> D:\Anul 3\EGC\gfx-framework-master\src
+  Junction created for D:\Anul 3\EGC\gfx-framework-master\build\bin\Debug\assets <<===>> D:\Anul 3\EGC\gfx-framework-master\assets

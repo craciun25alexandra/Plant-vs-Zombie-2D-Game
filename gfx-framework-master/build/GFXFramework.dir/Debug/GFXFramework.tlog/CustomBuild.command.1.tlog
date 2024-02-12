@@ -1,0 +1,10 @@
+^D:\ANUL 3\EGC\GFX-FRAMEWORK-MASTER\CMAKELISTS.TXT
+setlocal
+"D:\Anul 3\EGC\bin\cmake.exe" "-SD:/Anul 3/EGC/gfx-framework-master" "-BD:/Anul 3/EGC/gfx-framework-master/build" --check-stamp-file "D:/Anul 3/EGC/gfx-framework-master/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
